@@ -1,0 +1,599 @@
+INST_NAME,CITY,STATE
+Princeton University,Princeton,NJ
+Massachusetts Institute of Technology,Cambridge,MA
+Harvard University,Cambridge,MA
+Stanford University,Stanford,CA
+Yale University,New Haven,CT
+University of Pennsylvania,Philadelphia,PA
+California Institute of Technology,Pasadena,CA
+Duke University,Durham,NC
+Brown University,Providence,RI
+Johns Hopkins University,Baltimore,MD
+Northwestern University,Evanston,IL
+Columbia University,New York,NY
+Cornell University,Ithaca,NY
+University of Chicago,Chicago,IL
+University of California,Berkeley,CA
+University of California,Los Angeles,CA
+Rice University,Houston,TX
+Dartmouth College,Hanover,NH
+Vanderbilt University,Nashville,TN
+University of Notre Dame,Notre Dame,IN
+University of Michigan,Ann Arbor,MI
+Georgetown University,Washington,DC
+University of North Carolina,Chapel Hill,NC
+Carnegie Mellon University,Pittsburgh,PA
+Emory University,Atlanta,GA
+University of Virginia,Charlottesville,VA
+Washington University,Saint Louis,MO
+University of California,Davis,CA
+University of California,La Jolla,CA
+University of Florida,Gainesville,FL
+University of Southern California,Los Angeles,CA
+University of Texas,Austin,TX
+Georgia Institute of Technology,Atlanta,GA
+University of California,Irvine,CA
+New York University,New York,NY
+University of California,Santa Barbara,CA
+University of Illinois Urbana-Champaign,Champaign,IL
+University of Wisconsin,Madison,WI
+Boston College,Chestnut Hill,MA
+Rutgers University,Piscataway,NJ
+Tufts University,Medford,MA
+University of Washington,Seattle,WA
+Boston University,Boston,MA
+The Ohio State University,Columbus,OH
+Purdue University,West Lafayette,IN
+University of Maryland,College Park,MD
+Lehigh University,Bethlehem,PA
+Texas A&M University,College Station,TX
+University of Georgia,Athens,GA
+University of Rochester,Rochester,NY
+Virginia Polytechnic Institute and State University,Blacksburg,VA
+Wake Forest University,Winston-Salem,NC
+Case Western Reserve University,Cleveland,OH
+Florida State University,Tallahassee,FL
+Northeastern University,Boston,MA
+University of Minnesota,Minneapolis,MN
+William & Mary,Williamsburg,VA
+Stony Brook University,Stony Brook,NY
+University of Connecticut,Storrs,CT
+Brandeis University,Waltham,MA
+Michigan State University,East Lansing,MI
+North Carolina State University,Raleigh,NC
+The Pennsylvania State University,University Park,PA
+Rensselaer Polytechnic Institute,Troy,NY
+Santa Clara University,Santa Clara,CA
+University of California,Merced,CA
+George Washington University,Washington,DC
+Syracuse University,Syracuse,NY
+University of Massachusetts,Amherst,MA
+University of Miami,Coral Gables,FL
+University of Pittsburgh,Pittsburgh,PA
+Villanova University,Villanova,PA
+Binghamton University,Binghamton,NY
+Indiana University,Bloomington,IN
+Tulane University,New Orleans,LA
+Colorado School of Mines,Golden,CO
+Pepperdine University,Malibu,CA
+Stevens Institute of Technology,Hoboken,NJ
+University at Buffalo,Buffalo,NY
+University of California,Riverside,CA
+University of Delaware,Newark,DE
+Rutgers University,Newark,NJ
+University of California,Santa Cruz,CA
+University of Illinois,Chicago,IL
+Worcester Polytechnic Institute,Worcester,MA
+Clemson University,Clemson,SC
+Marquette University,Milwaukee,WI
+New Jersey Institute of Technology,Newark,NJ
+Fordham University,New York,NY
+Southern Methodist University,Dallas,TX
+Temple University,Philadelphia,PA
+University of South Florida,Tampa,FL
+Auburn University,Auburn,AL
+Baylor University,Waco,TX
+Gonzaga University,Spokane,WA
+Loyola Marymount University,Los Angeles,CA
+University of Iowa,Iowa City,IA
+Drexel University,Philadelphia,PA
+Illinois Institute of Technology,Chicago,IL
+Rochester Institute of Technology,Rochester,NY
+Rutgers University,Camden,NJ
+Texas Christian University,Fort Worth,TX
+University of Oregon,Eugene,OR
+University of San Diego,San Diego,CA
+American University,Washington,DC
+Arizona State University,Tempe,AZ
+California State University,Long Beach,CA
+CUNY New York City College of Technology,New York,NY
+George Mason University,Fairfax,VA
+Saint Louis University,Saint Louis,MO
+San Diego State University,San Diego,CA
+University of Colorado Boulder,Boulder,CO
+University of Tennessee,Knoxville,TN
+Yeshiva University,New York,NY
+Brigham Young University,Provo,UT
+Howard University,Washington,DC
+Iowa State University of Science and Technology,Ames,IA
+SUNY College of Environmental Science and Forestry,Syracuse,NY
+University of Arizona,Tucson,AZ
+University of New Hampshire,Durham,NH
+University of San Francisco,San Francisco,CA
+The University of Texas,Richardson,TX
+University of Utah,Salt Lake City,UT
+Creighton University,Omaha,NE
+Fairfield University,Fairfield,CT
+Florida International University,Miami,FL
+James Madison University,Harrisonburg,VA
+University of Central Florida,Orlando,FL
+University of Denver,Denver,CO
+University of Missouri,Columbia,MO
+University of Oklahoma,Norman,OK
+University of South Carolina,Columbia,SC
+California State University,Fullerton,CA
+Chapman University,Orange,CA
+Elon University,Elon,NC
+Miami University,Oxford,OH
+University at Albany--SUNY,Albany,NY
+University of Dayton,Dayton,OH
+University of Houston,Houston,TX
+University of Maryland,Baltimore,MD
+University of Vermont,Burlington,VT
+Clarkson University,Potsdam,NY
+Clark University,Worcester,MA
+Loyola University Chicago,Chicago,IL
+Oregon State University,Corvallis,OR
+Thomas Jefferson University,Philadelphia,PA
+University of Alabama,Birmingham,AL
+University of Cincinnati,Cincinnati,OH
+University of the Pacific,Stockton,CA
+Virginia Commonwealth University,Richmond,VA
+Colorado State University,Fort Collins,CO
+DePaul University,Chicago,IL
+Duquesne University,Pittsburgh,PA
+Michigan Technological University,Houghton,MI
+Seton Hall University,South Orange,NJ
+Simmons University,Boston,MA
+University of Kansas,Lawrence,KS
+University of Rhode Island,Kingston,RI
+Stockton University,Galloway,NJ
+University of Kentucky,Lexington,KY
+University of Massachusetts,Lowell,MA
+University of Nebraska ,Lincoln,NE
+Adelphi University,Garden City,NY
+Montclair State University,Montclair,NJ
+Rowan University,Glassboro,NJ
+Seattle University,Seattle,WA
+St. John's University,Queens,NY
+University of Mississippi,University,MS
+University of St. Thomas,Saint Paul,MN
+California State University,San Bernardino,CA
+Florida A&M University,Tallahassee,FL
+Kansas State University,Manhattan,KS
+Mercer University,Macon,GA
+Quinnipiac University,Hamden,CT
+The University of Alabama,Tuscaloosa,AL
+University of Hawaii,Honolulu,HI
+University of La Verne,La Verne,CA
+The Catholic University of America,Washington,DC
+Drake University,Des Moines,IA
+Ohio University,Athens,OH
+San Francisco State University,San Francisco,CA
+University of Arkansas,Fayetteville,AR
+University of North Carolina,Charlotte,NC
+Washington State University,Pullman,WA
+Bradley University,Peoria,IL
+California State University,Fresno,CA
+Hofstra University,Hempstead,NY
+Louisiana State University,Baton Rouge,LA
+Missouri University of Science and Technology,Rolla,MO
+Oklahoma State University,Stillwater,OK
+Samford University,Birmingham,AL
+St. John Fisher University,Rochester,NY
+University of Detroit Mercy,Detroit,MI
+University of Idaho,Moscow,ID
+East Carolina University,Greenville,NC
+Russell Sage College,Troy,NY
+Touro University,New York,NY
+University of Louisville,Louisville,KY
+University of Nevada,Reno,NV
+University of Tulsa,Tulsa,OK
+Indiana University-Purdue University,Indianapolis,IN
+La Salle University,Philadelphia,PA
+The New School,New York,NY
+Robert Morris University,Moon Township,PA
+University of North Carolina,Wilmington,NC
+Valparaiso University,Valparaiso,IN
+Wayne State University,Detroit,MI
+Xavier University,Cincinnati,OH
+Chatham University,Pittsburgh,PA
+Florida Atlantic University,Boca Raton,FL
+Illinois State University,Normal,IL
+Pacific University,Forest Grove,OR
+Sacred Heart University,Fairfield,CT
+University of Massachusetts,North Dartmouth,MA
+West Chester University of Pennsylvania,West Chester,PA
+Ball State University,Muncie,IN
+The College of St. Scholastica,Duluth,MN
+Mississippi State University,Mississippi State,MS
+Springfield College,Springfield,MA
+St. Catherine University,Saint Paul,MN
+Texas Tech University,Lubbock,TX
+University of Massachusetts,Boston,MA
+University of North Carolina,Greensboro,NC
+University of St. Thomas,Houston,TX
+University of Wyoming,Laramie,WY
+West Virginia University,Morgantown,WV
+Georgia State University,Atlanta,GA
+Kent State University,Kent,OH
+Misericordia University,Dallas,PA
+Nova Southeastern University,Fort Lauderdale,FL
+University of Alabama,Huntsville,AL
+University of Texas Rio Grande Valley,Edinburg,TX
+Western Carolina University,Cullowhee,NC
+Widener University,Chester,PA
+Grand Valley State University,Allendale,MI
+Azusa Pacific University,Azusa,CA
+Belmont University,Nashville,TN
+Bethel University,Saint Paul,MN
+Biola University,La Mirada,CA
+Gallaudet University,Washington,DC
+Lipscomb University,Nashville,TN
+University of Colorado Denver,Denver,CO
+University of New Mexico,Albuquerque,NM
+University of North Dakota,Grand Forks,ND
+University of North Florida,Jacksonville,FL
+The University of Texas,Arlington,TX
+Western New England University,Springfield,MA
+Keiser University,Fort Lauderdale,FL
+Maryville University of Saint Louis,Saint Louis,MO
+North Dakota State University,Fargo,ND
+Northern Arizona University,Flagstaff,AZ
+Pace University,New York,NY
+Sam Houston State University,Huntsville,TX
+Suffolk University,Boston,MA
+Tennessee Tech University,Cookeville,TN
+Union University,Jackson,TN
+University of Maine,Orono,ME
+University of Wisconsin,La Crosse,WI
+Central Michigan University,Mount Pleasant,MI
+Gannon University,Erie,PA
+Gwynedd Mercy University,Gwynedd Valley,PA
+Loyola University New Orleans,New Orleans,LA
+Regis University,Denver,CO
+University of Missouri,Saint Louis,MO
+University of New England,Biddeford,ME
+University of North Texas,Denton,TX
+Winston-Salem State University,Winston-Salem,NC
+Florida Institute of Technology,Melbourne,FL
+George Fox University,Newberg,OR
+Lincoln Memorial University,Harrogate,TN
+Northern Illinois University,DeKalb,IL
+Seattle Pacific University,Seattle,WA
+University of Memphis,Memphis,TN
+University of Missouri,Kansas City,MO
+University of Nevada,Las Vegas,NV
+University of South Dakota,Vermillion,SD
+Utah State University,Logan,UT
+Wilkes University,Wilkes-Barre,PA
+Bellarmine University,Louisville,KY
+Bowling Green State University,Bowling Green,OH
+California State University,Hayward,CA
+Clarke University,Dubuque,IA
+DeSales University,Center Valley,PA
+Hampton University,Hampton,VA
+Immaculata University,Immaculata,PA
+Marian University,Indianapolis,IN
+North Carolina Agricultural and Technical State University,Greensboro,NC
+Oklahoma City University,Oklahoma City,OK
+Old Dominion University,Norfolk,VA
+Portland State University,Portland,OR
+Southern Illinois University,Carbondale,IL
+Texas State University,San Marcos,TX
+University of St. Francis,Joliet,IL
+University of Texas,San Antonio,TX
+University of Toledo,Toledo,OH
+Alvernia University,Reading,PA
+Edgewood College,Madison,WI
+New Mexico State University,Las Cruces,NM
+Saint Mary's University of Minnesota,Winona,MN
+South Dakota State University,Brookings,SD
+Southeastern Baptist Theological Seminary,Wake Forest,NC
+University of the Incarnate Word,San Antonio,TX
+Aurora University,Aurora,IL
+Montana State University,Bozeman,MT
+Concordia University Wisconsin,Mequon,WI
+Ferris State University,Big Rapids,MI
+Florida Gulf Coast University,Fort Myers,FL
+Harding University,Searcy,AR
+Louisiana Tech University,Ruston,LA
+Middle Tennessee State University,Murfreesboro,TN
+Oakland City University,Oakland City,IN
+Radford University,Radford,VA
+Shenandoah University,Winchester,VA
+University of Hartford,West Hartford,CT
+University of Indianapolis,Indianapolis,IN
+University of Nebraska Omaha,Omaha,NE
+The University of Texas,El Paso,TX
+Western Michigan University,Kalamazoo,MI
+Abilene Christian University,Abilene,TX
+Andrews University,Berrien Springs,MI
+Campbell University,Buies Creek,NC
+Cleveland State University,Cleveland,OH
+D'Youville University,Buffalo,NY
+East Tennessee State University,Johnson City,TN
+Indiana University of Pennsylvania,Indiana,PA
+Kean University,Union,NJ
+Marymount University,Arlington,VA
+St. Ambrose University,Davenport,IA
+University of Puerto Rico,Rio Piedras,PR
+Augusta University,Augusta,GA
+Boise State University,Boise,ID
+Marshall University,Huntington,WV
+The Master's University and Seminary,Santa Clarita,CA
+Morgan State University,Baltimore,MD
+Oakland University,Rochester,MI
+Southern Illinois University Edwardsville,Edwardsville,IL
+Texas Woman's University,Denton,TX
+University of Findlay,Findlay,OH
+University of Wisconsin,Milwaukee,WI
+University of Wisconsin,Oshkosh,WI
+Wichita State University,Wichita,KS
+Lesley University,Cambridge,MA
+Missouri State University,Springfield,MO
+Baker University,Baldwin City,KS
+Concordia University ,Irvine,CA
+Daemen University,Amherst,NY
+University of Louisiana,Lafayette,LA
+University of Lynchburg,Lynchburg,VA
+University of Tennessee,Chattanooga,TN
+Eastern Kentucky University,Richmond,KY
+Georgia Southern University,Statesboro,GA
+Point Park University,Pittsburgh,PA
+Texas A&M University,Kingsville,TX
+University of Hawaii,Hilo,HI
+University of Northern Colorado,Greeley,CO
+University of Southern Mississippi,Hattiesburg,MS
+Walsh University,North Canton,OH
+Gardner-Webb University,Boiling Springs,NC
+William Carey University,Hattiesburg,MS
+Arkansas State University,State University,AR
+Carson-Newman University,Jefferson City,TN
+Clark Atlanta University,Atlanta,GA
+Husson University,Bangor,ME
+The University of Akron,Akron,OH
+University of Montana,Missoula,MT
+The University of Texas,Tyler,TX
+Western Kentucky University,Bowling Green,KY
+Dominican University New York,Orangeburg,NY
+Long Island University,Brookville,NY
+Mississippi College,Clinton,MS
+Regent University,Virginia Beach,VA
+Texas A&M University,Commerce,TX
+University of Louisiana,Monroe,LA
+University of Maryland,Princess Anne,MD
+Dallas Baptist University,Dallas,TX
+Eastern Michigan University,Ypsilanti,MI
+Mount Saint Joseph University,Cincinnati,OH
+Tarleton State University,Stephenville,TX
+University of Mary,Bismarck,ND
+Wingate University,Wingate,NC
+Pontifical Catholic University of Puerto Rico,Ponce,PR
+Indiana State University,Terre Haute,IN
+Northern Kentucky University,Highland Heights,KY
+Palm Beach Atlantic University,West Palm Beach,FL
+Trevecca Nazarene University,Nashville,TN
+University of South Alabama,Mobile,AL
+University of West Georgia,Carrollton,GA
+University of Alaska,Fairbanks,AK
+University of Bridgeport,Bridgeport,CT
+Roosevelt University,Chicago,IL
+Saint Leo University,Saint Leo,FL
+University of Arkansas,Little Rock,AR
+University of Michigan,Flint,MI
+Williams College,Williamstown,MA
+Amherst College,Amherst,MA
+United States Naval Academy,Annapolis,MD
+Pomona College,Claremont,CA
+Swarthmore College,Swarthmore,PA
+Wellesley College,Wellesley,MA
+United States Air Force Academy,USAF Academy,CO
+United States Military Academy,West Point,NY
+Bowdoin College,Brunswick,ME
+Carleton College,Northfield,MN
+Barnard College,New York,NY
+Claremont McKenna College,Claremont,CA
+Grinnell College,Grinnell,IA
+Middlebury College,Middlebury,VT
+Wesleyan University,Middletown,CT
+Davidson College,Davidson,NC
+Hamilton College,Clinton,NY
+Harvey Mudd College,Claremont,CA
+Smith College,Northampton,MA
+Vassar College,Poughkeepsie,NY
+Colgate University,Hamilton,NY
+Haverford College,Haverford,PA
+Washington and Lee University,Lexington,VA
+Bates College,Lewiston,ME
+Colby College,Waterville,ME
+University of Richmond,University of Richmond,VA
+College of the Holy Cross,Worcester,MA
+Macalester College,Saint Paul,MN
+Berea College,Berea,KY
+Bryn Mawr College,Bryn Mawr,PA
+Bucknell University,Lewisburg,PA
+Lafayette College,Easton,PA
+Colorado College,Colorado Springs,CO
+Mount Holyoke College,South Hadley,MA
+Franklin & Marshall College,Lancaster,PA
+Occidental College,Los Angeles,CA
+Scripps College,Claremont,CA
+Skidmore College,Saratoga Springs,NY
+Denison University,Granville,OH
+Hillsdale College,Hillsdale,MI
+Kenyon College,Gambier,OH
+Pitzer College,Claremont,CA
+Spelman College,Atlanta,GA
+Trinity College,Hartford,CT
+Union College,Schenectady,NY
+Connecticut College,New London,CT
+DePauw University,Greencastle,IN
+Dickinson College,Carlisle,PA
+Furman University,Greenville,SC
+Whitman College,Walla Walla,WA
+Centre College,Danville,KY
+Oberlin College and Conservatory,Oberlin,OH
+Principia College,Elsah,IL
+St. Olaf College,Northfield,MN
+The University of the South,Sewanee,TN
+Rhodes College,Memphis,TN
+Soka University of America,Aliso Viejo,CA
+Wheaton College,Wheaton,IL
+St. Lawrence University,Canton,NY
+Trinity University,San Antonio,TX
+Wabash College,Crawfordsville,IN
+Wofford College,Spartanburg,SC
+Agnes Scott College,Decatur,GA
+Gettysburg College,Gettysburg,PA
+Virginia Military Institute,Lexington,VA
+Gustavus Adolphus College,Saint Peter,MN
+Reed College,Portland,OR
+Thomas Aquinas College,Santa Paula,CA
+Hobart and William Smith Colleges,Geneva,NY
+Kalamazoo College,Kalamazoo,MI
+Muhlenberg College,Allentown,PA
+Bard College,Annandale on Hudson,NY
+College of St. Benedict,Saint Joseph,MN
+Lake Forest College,Lake Forest,IL
+Allegheny College,Meadville,PA
+The College of Wooster,Wooster,OH
+Knox College,Galesburg,IL
+Lawrence University,Appleton,WI
+St. John's College,Annapolis,MD
+Wheaton College,Norton,MA
+Willamette University,Salem,OR
+Juniata College,Huntingdon,PA
+Saint Mary's College,Notre Dame,IN
+St. John's University,Collegeville,MN
+St. Mary's College of Maryland,Saint Marys City,MD
+Beloit College,Beloit,WI
+Stonehill College,Easton,MA
+Ursinus College,Collegeville,PA
+Saint Anselm College,Manchester,NH
+Southwestern University,Georgetown,TX
+University of Puget Sound,Tacoma,WA
+Washington & Jefferson College,Washington,PA
+Austin College,Sherman,TX
+Drew University,Madison,NJ
+Lewis & Clark College,Portland,OR
+St. John's College,Santa Fe,NM
+St. Norbert College,De Pere,WI
+Washington College,Chestertown,MD
+Whittier College,Whittier,CA
+Antioch College,Yellow Springs,OH
+Augustana College,Rock Island,IL
+Earlham College,Richmond,IN
+Hope College,Holland,MI
+Morehouse College,Atlanta,GA
+New College of Florida,Sarasota,FL
+Sarah Lawrence College,Bronxville,NY
+Linfield University,McMinnville,OR
+Lycoming College,Williamsport,PA
+Randolph-Macon College,Ashland,VA
+Susquehanna University,Selinsgrove,PA
+Westmont College,Santa Barbara,CA
+Bennington College,Bennington,VT
+Hanover College,Hanover,IN
+Hendrix College,Conway,AR
+Westminster College,New Wilmington,PA
+Cornell College,Mount Vernon,IA
+Hampden-Sydney College,Hampden-Sydney,VA
+Luther College,Decorah,IA
+Ohio Wesleyan University,Delaware,OH
+Saint Michael's College,Colchester,VT
+Hartwick College,Oneonta,NY
+Massachusetts College of Liberal Arts,North Adams,MA
+Transylvania University,Lexington,KY
+Albion College,Albion,MI
+Goucher College,Baltimore,MD
+Hollins University,Roanoke,VA
+Illinois College,Jacksonville,IL
+Millsaps College,Jackson,MS
+Saint Vincent College,Latrobe,PA
+Monmouth College,Monmouth,IL
+Coe College,Cedar Rapids,IA
+Eckerd College,Saint Petersburg,FL
+Meredith College,Raleigh,NC
+Roanoke College,Salem,VA
+University of Minnesota Morris,Morris,MN
+Birmingham-Southern College,Birmingham,AL
+Central College,Pella,IA
+Covenant College,Lookout Mountain,GA
+Centenary College,Shreveport,LA
+Franklin College,Franklin,IN
+Hampshire College,Amherst,MA
+Presbyterian College,Clinton,SC
+Purchase College,Purchase,NY
+Salem College,Winston-Salem,NC
+University of North Carolina Asheville,Asheville,NC
+Albright College,Reading,PA
+Concordia College,Moorhead,MN
+Fisk University,Nashville,TN
+Houghton University,Houghton,NY
+Ripon College,Ripon,WI
+University of New Hampshire,Manchester,NH
+Emmanuel College,Boston,MA
+Wells College,Aurora,NY
+Wittenberg University,Springfield,OH
+University of Mary Washington,Fredericksburg,VA
+Aquinas College,Grand Rapids,MI
+College of the Atlantic,Bar Harbor,ME
+Wartburg College,Waverly,IA
+Bethany Lutheran College,Mankato,MN
+Claflin University,Orangeburg,SC
+Dillard University,New Orleans,LA
+Gordon College,Wenham,MA
+Oglethorpe University,Atlanta,GA
+Westminster College,Fulton,MO
+Randolph College,Lynchburg,VA
+University of Virginia,Wise,VA
+Bridgewater College,Bridgewater,VA
+Guilford College,Greensboro,NC
+The King's College,New York,NY
+Lyon College,Batesville,AR
+University of Puerto Rico,Cayey,PR
+Johnson C. Smith University,Charlotte,NC
+Maryville College,Maryville,TN
+Bryn Athyn College of the New Church,Bryn Athyn,PA
+Marymount Manhattan College,New York,NY
+Simpson University,Redding,CA
+Virginia Wesleyan University,Virginia Beach,VA
+Oakwood University,Huntsville,AL
+Ouachita Baptist University,Arkadelphia,AR
+Bennett College,Greensboro,NC
+Sweet Briar College,Sweet Briar,VA
+Tougaloo College,Tougaloo,MS
+Ave Maria University,Ave Maria,FL
+Cheyney University of Pennsylvania,Cheyney,PA
+Medgar Evers College,Brooklyn,NY
+Allen University,Columbia,SC
+Bethany College,Bethany,WV
+Bethune-Cookman University,Daytona Beach,FL
+East-West University,Chicago,IL
+Georgetown College,Georgetown,KY
+Hebrew Theological College,Skokie,IL
+Holy Cross College,Notre Dame,IN
+Lane College,Jackson,TN
+Martin University,Indianapolis,IN
+Paine College,Augusta,GA
+Pillar College,Newark,NJ
+Providence Christian College,Pasadena,CA
+Rust College,Holly Springs,MS
+Southern Virginia University,Buena Vista,VA
+University of Pittsburgh,Greensburg,PA
+University of Science and Arts of Oklahoma,Chickasha,OK
+Virginia Union University,Richmond,VA
+Warren Wilson College,Asheville,NC
+Young Harris College,Young Harris,GA
+University of Houston--Clear Lake,Houston,TX

@@ -1,0 +1,6 @@
+pandas==1.5.1
+parsel==1.6.0
+selenium==4.16.0
+us==3.1.1
+openpyxl
+xlsxwriter
