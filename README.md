@@ -1,5 +1,6 @@
 # AutoBot_NCES
-Create an auto bot to scrape data from NCES
+I created an automated bot to scrape data from NCES.
+
 In this notebook, simply run the bot.py file and the data will be scrapped from NCES website. It automatically generate the major and programs IDs, and saves them in json file. The scraped data will be saved in a new created output.xlsx file. In order to scrape the data you looking for, just simply edit the input.csv by adding the university name, city and state.
 
 The image below shows what the data looks like. If you would like to get other data from NCES website, you will need to edit the bot.py file.
